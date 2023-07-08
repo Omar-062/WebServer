@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T3hYF6astgJtCoebt7z6UYACjsyyADOrgK+J5Isq45Ci6G+qRmsWIfWrHyEm1m2BDnc7FGQJLVactQdyhAun0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\haciy\\RiderProjects\\WebServer\\WebServer\\WebServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\haciy\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0-preview.5.23280.8\\microsoft.extensions.dependencyinjection.abstractions.8.0.0-preview.5.23280.8.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServer", "WebServer\WebServer.csproj", "{5FF012CA-2995-477D-A1F6-2D85D3F80913}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{B72BF561-2787-4DA1-8DD1-4EECCDBDF397}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kestrel", "Kestrel\Kestrel.csproj", "{B6B905C4-F828-4A19-A46C-9F43D5764504}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FF012CA-2995-477D-A1F6-2D85D3F80913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF012CA-2995-477D-A1F6-2D85D3F80913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF012CA-2995-477D-A1F6-2D85D3F80913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF012CA-2995-477D-A1F6-2D85D3F80913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B72BF561-2787-4DA1-8DD1-4EECCDBDF397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B72BF561-2787-4DA1-8DD1-4EECCDBDF397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B72BF561-2787-4DA1-8DD1-4EECCDBDF397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B72BF561-2787-4DA1-8DD1-4EECCDBDF397}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6B905C4-F828-4A19-A46C-9F43D5764504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B905C4-F828-4A19-A46C-9F43D5764504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B905C4-F828-4A19-A46C-9F43D5764504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B905C4-F828-4A19-A46C-9F43D5764504}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
