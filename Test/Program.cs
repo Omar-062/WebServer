@@ -33,7 +33,7 @@ class WebHost
             HttpListenerRequest request = context.Request;
 
             Console.WriteLine($"Method: {request.HttpMethod}");
-            Console.WriteLine($"Path: {request.Url.AbsolutePath}");
+            Console.WriteLine($"Path: {request.Url?.AbsolutePath}");
 
             if (request.Url.AbsolutePath.ToLower()=="/first")
             {
